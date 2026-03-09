@@ -54,6 +54,6 @@ Manages user actions and interface responsiveness.
 
 View the Website
 
-You can view our website through the link
+You can view our website through the link  https://venn43048-cyber.github.io/Infinora-project/
 You can view and explore the Infinora E-Commerce Website through the following link:
 🔗 Website Link: [Add your website link here]
